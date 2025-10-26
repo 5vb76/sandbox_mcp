@@ -1,2 +1,6 @@
-# sandbox_mcp
-sandbox for do the testing for GitHub MCP
+# Seeded Repo
+
+This repo is seeded for MCP agent experiments.
+
+- Contains some Python files with TODOs
+- Issues with 'bug' label (some resolvable)
